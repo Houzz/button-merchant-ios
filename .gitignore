@@ -71,3 +71,4 @@ fastlane/screenshots
 fastlane/test_output
 fastlane/html
 swiftlint.result.json
+IDEWorkspaceChecks.plist
